@@ -20,7 +20,7 @@
   
   Because a front-end has not been developed, posts can be created and fetched by using Insomnia.
   
-  <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
+  <img src="https://github.com/ccd330/just-tech-news/blob/main/demo.png" />
 
   ## Installation Instructions
   Download file package and install dependencies: Sequelize, bcrypt, and Dotenv.
